@@ -1,0 +1,38 @@
+# Arduino build files
+*.ino.*
+*.elf
+*.bin
+*.hex
+*.eep
+*.dSYM/
+*.bin
+
+# Arduino IDE settings
+.vscode/
+*.code-workspace
+*.ino.arduino*.log
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Compiled object files and binaries
+*.o
+*.a
+*.out
+
+# User-specific files
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.log
+
+# Build folders (use the name of the build folder created by the IDE)
+build/
+.pioenvs/
+.clang_complete
+.clangd/
