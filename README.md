@@ -75,7 +75,7 @@ _Connect with me through various portals :_
 
 ## Acknowledgements
 
-I’m so grateful to Coşkun Taşdemir for writing [Arduino](https://coskuntasdemir.com/gomulu-sistemler/arduino-kitabim-satisa-cikti.html) book and teaching more about Embedded Systems.
+I’m so grateful to [Coşkun Taşdemir](https://github.com/ctasdemir) for writing [Arduino](https://coskuntasdemir.com/gomulu-sistemler/arduino-kitabim-satisa-cikti.html) book and teaching more about Embedded Systems.
 
 Feel free to clone this repository and use it as a template for your own "Arduino" journey. Enjoy learning!
 🤖☄️
