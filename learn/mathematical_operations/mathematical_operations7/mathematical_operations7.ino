@@ -3,7 +3,7 @@
 
   This program calculates and prints the sine and cosine of angles ranging from -90 to 90 degrees.
 
-  created 24 Aug 2024
+  created 25 Aug 2024
   by Enes İhtiyaroğlu
 */
 
