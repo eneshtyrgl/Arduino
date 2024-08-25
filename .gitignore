@@ -36,3 +36,9 @@ build/
 .pioenvs/
 .clang_complete
 .clangd/
+
+# Arduino libraries
+libraries/
+**/libraries/
+*.zip
+*.tar.gz
